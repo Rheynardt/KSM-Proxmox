@@ -1,0 +1,19 @@
+# Sensitive files
+.ssh/
+.gnupg/
+.bash_history
+.lesshst
+.rnd
+
+# Claude Code local data
+.claude/
+.claude.json
+.claude.json.backup.*
+
+# Config with credentials
+.config/
+
+# Local state
+.local/
+.cache/
+.npm/
